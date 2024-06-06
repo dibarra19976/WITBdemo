@@ -1,5 +1,5 @@
 export const CollectionComponent = ({ collectionObj }) => {
-  console.log(collectionObj);
+  // console.log(collectionObj);
   return (
     <div className="collection">
       <h1>{collectionObj.name}</h1>
